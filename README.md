@@ -1,1 +1,1 @@
-# cringql
+# cringeql
