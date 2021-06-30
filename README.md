@@ -1,2 +1,2 @@
 # cringeql
-(cringeql.jpg)
+![](cringeql.jpg)
